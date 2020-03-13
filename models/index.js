@@ -1,4 +1,4 @@
-const Item = require('./Item.js')
+const Item = require('./workouts.js')
 const User = require('./User.js')
 
 module.exports = {

@@ -18,5 +18,14 @@
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^6.0.1"
   },
-  "description": ""
+  "description": "For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BOSSZEUS/Fitness-Tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BOSSZEUS/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/BOSSZEUS/Fitness-Tracker#readme"
 }
